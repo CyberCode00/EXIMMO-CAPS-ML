@@ -12,7 +12,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-url = 'https://raw.github.com/kevynalifian/ML/main/chocolate_exp1.xlsx'
+url = 'Link Dataset'
 
 # Baca file Excel dari URL
 data = pd.read_excel(url)
